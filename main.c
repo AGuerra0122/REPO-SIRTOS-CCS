@@ -40,6 +40,8 @@
  * Los usuarios pueden modificar esto y usarlo para aprender sobre el campo de software embebido.
  * Alfredo Chacon y el TecNM /IT Chihuahua no son responsables del mal uso de este material.
  *************************************************************************************************/
+#define allala 1
+//ñaaaaa
 #include "DRIVERS/BSP.h"
 /*****************************************************************************
      * Function: MAIN

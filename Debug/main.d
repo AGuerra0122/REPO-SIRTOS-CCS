@@ -37,7 +37,7 @@ main.obj: C:/ti/ccs1210/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdarg.
 main.obj: C:/ti/ccs1210/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdlib.h
 main.obj: C:/ti/ccs1210/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/string.h
 main.obj: C:/ti/ccs1210/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/xlocale/_string.h
-main.obj: C:/Users/DIGITALES/Desktop/19060742\ arqui/msp432/empty_MSP_EXP432P401R_nortos_ccs/Drivers/BSP.h
+main.obj: C:/Users/DIGITALES/Desktop/19060742\ arqui/msp432/NORTOS_DRIVERS_3/Drivers/BSP.h
 
 ../main.c:
 
@@ -113,5 +113,5 @@ C:/ti/ccs1210/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/string.h:
 
 C:/ti/ccs1210/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/xlocale/_string.h:
 
-C:/Users/DIGITALES/Desktop/19060742\ arqui/msp432/empty_MSP_EXP432P401R_nortos_ccs/Drivers/BSP.h:
+C:/Users/DIGITALES/Desktop/19060742\ arqui/msp432/NORTOS_DRIVERS_3/Drivers/BSP.h:
 

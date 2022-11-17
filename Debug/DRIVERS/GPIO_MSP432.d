@@ -36,8 +36,8 @@ DRIVERS/GPIO_MSP432.obj: C:/ti/ccs1210/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/
 DRIVERS/GPIO_MSP432.obj: C:/ti/ccs1210/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdlib.h
 DRIVERS/GPIO_MSP432.obj: C:/ti/ccs1210/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/string.h
 DRIVERS/GPIO_MSP432.obj: C:/ti/ccs1210/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/xlocale/_string.h
-DRIVERS/GPIO_MSP432.obj: C:/Users/DIGITALES/Desktop/19060742\ arqui/msp432/empty_MSP_EXP432P401R_nortos_ccs/Drivers/BSP.h
-DRIVERS/GPIO_MSP432.obj: C:/Users/DIGITALES/Desktop/19060742\ arqui/msp432/empty_MSP_EXP432P401R_nortos_ccs/Drivers/GPIO_MSP432.h
+DRIVERS/GPIO_MSP432.obj: C:/Users/DIGITALES/Desktop/19060742\ arqui/msp432/NORTOS_DRIVERS_3/Drivers/BSP.h
+DRIVERS/GPIO_MSP432.obj: C:/Users/DIGITALES/Desktop/19060742\ arqui/msp432/NORTOS_DRIVERS_3/Drivers/GPIO_MSP432.h
 
 ../DRIVERS/GPIO_MSP432.c:
 
@@ -111,7 +111,7 @@ C:/ti/ccs1210/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/string.h:
 
 C:/ti/ccs1210/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/xlocale/_string.h:
 
-C:/Users/DIGITALES/Desktop/19060742\ arqui/msp432/empty_MSP_EXP432P401R_nortos_ccs/Drivers/BSP.h:
+C:/Users/DIGITALES/Desktop/19060742\ arqui/msp432/NORTOS_DRIVERS_3/Drivers/BSP.h:
 
-C:/Users/DIGITALES/Desktop/19060742\ arqui/msp432/empty_MSP_EXP432P401R_nortos_ccs/Drivers/GPIO_MSP432.h:
+C:/Users/DIGITALES/Desktop/19060742\ arqui/msp432/NORTOS_DRIVERS_3/Drivers/GPIO_MSP432.h:
 
