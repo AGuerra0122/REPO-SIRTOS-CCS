@@ -1,7 +1,7 @@
 ******************************************************************************
                   TI ARM Linker PC v20.2.7                     
 ******************************************************************************
->> Linked Thu Nov 17 09:26:36 2022
+>> Linked Thu Nov 17 09:46:37 2022
 
 OUTPUT FILE NAME:   <NORTOS_DRIVERS_3.out>
 ENTRY POINT SYMBOL: "_c_int00_noinit_noargs"  address: 00000301

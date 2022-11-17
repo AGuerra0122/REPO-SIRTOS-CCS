@@ -41,6 +41,8 @@
  * Alfredo Chacon y el TecNM /IT Chihuahua no son responsables del mal uso de este material.
  *************************************************************************************************/
 #define allala 1
+#define lalalsls 2
+#define rama 1 4
 //ñaaaaa
 #include "DRIVERS/BSP.h"
 /*****************************************************************************
